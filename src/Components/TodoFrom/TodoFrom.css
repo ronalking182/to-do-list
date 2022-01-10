@@ -1,0 +1,33 @@
+.form__container{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    margin-left: 10px;
+}
+.form__input{
+    width: 70%;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    margin-right: 7px; 
+}
+.formY{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn{
+    height: 25px;
+    border: none;
+    
+}
+.btnX{
+    margin-left: 4px;
+    height: 25px;
+    border: none;
+}
+.formX{
+  visibility: hidden;
+}

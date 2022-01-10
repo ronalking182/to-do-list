@@ -1,0 +1,18 @@
+.main__quote{
+    padding: 20px;
+    position: relative;
+}
+.word__of__the__day{
+    width: 95%;
+    padding: 4px;
+    border-radius: 7px;
+    background-color: #03001e;
+    color:whitesmoke;
+    text-align: center;
+}
+.direction{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,14 @@
+
+.ul{
+    display: flex;
+    align-items: center;
+}
+.plus{
+    padding-right: 5px;
+}
+
+.li{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

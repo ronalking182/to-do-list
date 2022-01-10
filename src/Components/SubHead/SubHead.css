@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Licorice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+.sub__head{
+    padding: 20px;
+   /* width: 90%; */
+}
+
+.priority{
+    height: auto;
+}
+
+
+@media screen and (min-width:600px) {
+    .sub__head{
+        /* width: 70%;
+        display: flex;
+        align-items: center;
+        justify-content: center; */
+    } 
+    .priority{
+
+    } 
+}
+
+.pp{
+       background-color: palevioletred;
+       padding: 20px;
+       border-radius: 8px;
+}
