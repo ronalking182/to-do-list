@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ronalking182/to-do-list.git/static/css/main.d3c724eb.css",
+    "main.js": "/ronalking182/to-do-list.git/static/js/main.8c0d3022.js",
+    "static/js/787.ef090b45.chunk.js": "/ronalking182/to-do-list.git/static/js/787.ef090b45.chunk.js",
+    "index.html": "/ronalking182/to-do-list.git/index.html",
+    "main.d3c724eb.css.map": "/ronalking182/to-do-list.git/static/css/main.d3c724eb.css.map",
+    "main.8c0d3022.js.map": "/ronalking182/to-do-list.git/static/js/main.8c0d3022.js.map",
+    "787.ef090b45.chunk.js.map": "/ronalking182/to-do-list.git/static/js/787.ef090b45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c724eb.css",
+    "static/js/main.8c0d3022.js"
+  ]
+}
